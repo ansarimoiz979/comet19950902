@@ -10,6 +10,11 @@
 
 <br/>  
 
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a70eef636f23394a9862e36e1e74deb5853f6c06572405a0bc760f1125dfae96/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d62632d6578706572742e62632d657870657274" class="docs-creator"><img align="left" src="https://camo.githubusercontent.com/a70eef636f23394a9862e36e1e74deb5853f6c06572405a0bc760f1125dfae96/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d62632d6578706572742e62632d657870657274" data-canonical-src="https://visitor-badge.laobi.icu/badge?page_id=bc-expert.bc-expert" style="max-width: 100%; margin-top: 10px"></a></p>
+
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9fae4498b130c134ed887aac7ca162ad6d104e278e3166a27ee33b26cc9ea184/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f62632d6578706572743f6c6162656c3d466f6c6c6f77267374796c653d736f6369616c" class="docs-creator"><img align="right" src="https://camo.githubusercontent.com/9fae4498b130c134ed887aac7ca162ad6d104e278e3166a27ee33b26cc9ea184/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f62632d6578706572743f6c6162656c3d466f6c6c6f77267374796c653d736f6369616c" data-canonical-src="https://img.shields.io/github/followers/bc-expert?label=Follow&amp;style=social" style="max-width: 100%;"></a></p>
+<h1 align="center" dir="auto"></h1>
+
 <div align="center" dir="auto">
     <h1 align="center" dir="auto">
             Peter Hiro<br>
@@ -121,22 +126,17 @@
 
 </td></tr></table>  
 
+----
 <br/>  
+
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=comet19950902&hide_border=true&layout=compact" align="center" /></div>  
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8fb04ec328260b8fdd141451f1d36f57e078f015b9ab8943dd51ad1e3273a769/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d62632d65787065727426636f756e745f707269766174653d747275652673686f775f69636f6e733d74727565267468656d653d636861727472657573652d6461726b" class="docs-creator"><img align="left" height="150px" src="https://camo.githubusercontent.com/8fb04ec328260b8fdd141451f1d36f57e078f015b9ab8943dd51ad1e3273a769/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d62632d65787065727426636f756e745f707269766174653d747275652673686f775f69636f6e733d74727565267468656d653d636861727472657573652d6461726b" data-canonical-src="https://github-readme-stats.vercel.app/api?username=bc-expert&amp;count_private=true&amp;show_icons=true&amp;theme=chartreuse-dark" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/41b39e44ad0c9a6a22e3ac22eadfbc111125855731605da17fea73f4487b3a3a/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d62632d657870657274266c61796f75743d636f6d70616374267468656d653d636861727472657573652d6461726b266c616e67735f636f756e743d38" class="docs-creator"><img align="right" height="150px" src="https://camo.githubusercontent.com/41b39e44ad0c9a6a22e3ac22eadfbc111125855731605da17fea73f4487b3a3a/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d62632d657870657274266c61796f75743d636f6d70616374267468656d653d636861727472657573652d6461726b266c616e67735f636f756e743d38" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=bc-expert&amp;layout=compact&amp;theme=chartreuse-dark&amp;langs_count=8" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="" class="docs-creator"><img height="150" style="max-width: 100%;"></a></p>
 
-<br/>  
+<br/>  <br/>  <br/>  <br/>  <br/>  
 
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=comet19950902&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center">
 <br />
 
 ----
