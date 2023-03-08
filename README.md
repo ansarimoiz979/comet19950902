@@ -10,10 +10,7 @@
 
 <br/>  
 
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a70eef636f23394a9862e36e1e74deb5853f6c06572405a0bc760f1125dfae96/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d62632d6578706572742e62632d657870657274" class="docs-creator"><img align="left" src="https://camo.githubusercontent.com/a70eef636f23394a9862e36e1e74deb5853f6c06572405a0bc760f1125dfae96/68747470733a2f2f76697369746f722d62616467652e6c616f62692e6963752f62616467653f706167655f69643d62632d6578706572742e62632d657870657274" data-canonical-src="https://visitor-badge.laobi.icu/badge?page_id=bc-expert.bc-expert" style="max-width: 100%;"></a></p>
-
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9fae4498b130c134ed887aac7ca162ad6d104e278e3166a27ee33b26cc9ea184/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f62632d6578706572743f6c6162656c3d466f6c6c6f77267374796c653d736f6369616c" class="docs-creator"><img align="right" src="https://camo.githubusercontent.com/9fae4498b130c134ed887aac7ca162ad6d104e278e3166a27ee33b26cc9ea184/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f62632d6578706572743f6c6162656c3d466f6c6c6f77267374796c653d736f6369616c" data-canonical-src="https://img.shields.io/github/followers/bc-expert?label=Follow&amp;style=social" style="max-width: 100%;"></a></p>
-<h1 align="center" dir="auto"></h1>
 
 <div align="center" dir="auto">
     <h1 align="center" dir="auto">
