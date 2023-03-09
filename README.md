@@ -40,11 +40,9 @@
       </span></animated-image>
   </div>
 
-    
-## My Skill Set 
 
-----
-----
+###  <h1 align="center"> My Skill Set </h1>
+
 
 ### Frontend  
 <div align="">  
@@ -102,5 +100,4 @@
 
 <br/>  
 
-----
 ----
