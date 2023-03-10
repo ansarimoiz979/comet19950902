@@ -2,10 +2,12 @@
 
 ### <div align="center">I'm Peter Hiro, a full-time full-stack freelance developer 👨‍💻 working remotely since 2016 🚀</div>  
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/comet19950902/github-profilinator)  
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-- ❓ Ask me about anything related to MERN stack and related technologies  
-- ⚡ Fun fact: I use tabs over spaces  
+  - 😎 Interested in contributing expertise in web, unity and blockchain development
+  - 👯 I hope someday collaborate with on Innovative Projects
+  - 👨‍💻 Enjoy contributing to Open Source Projects and eager to learn new technologies.
+  - 📚 Love reading books on personal development & financial literacy.
+  - ⚡ Quotes: What you do today can improve all of your tomorrows.
+    
 </details>  
 
 <br/>  
