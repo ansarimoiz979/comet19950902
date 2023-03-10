@@ -12,7 +12,7 @@
 
 <br/>  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&multiline=true&width=435&lines=I'm+Peter+Hiro;Web+%26+DApp+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=3000&pause=1000&center=true&multiline=true&width=100%&height=150&lines=I'm+Peter+Hiro;Web+%26+DApp+Developer)](https://git.io/typing-svg)
 
 <div align="center" dir="auto">
     <animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/56362def1bbc81d47e30e00d1f680d6698e05f1175c47957ef4a058ff3a840d5/68747470733a2f2f6c66736f6c7574696f6e732e6e65742f77702d636f6e74656e742f75706c6f6164732f323032312f31322f46756c6c2d537461636b2d446576656c6f706d656e742d46656174757265642d496d6167652d4c6576656c466976652d536f6c7574696f6e732e676966" data-target="animated-image.originalLink" class="docs-creator"></a>
