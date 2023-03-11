@@ -13,10 +13,7 @@
 <br/>  
 
 <div align="center" dir="auto">
-  <h1 align="center" dir="auto">
-          Peter Hiro<br>
-      Web &amp DApp Developer
-  </h1>  
+
 
 
 ![](./asserts/bchain.gif)
