@@ -19,7 +19,7 @@
   </h1>  
 
 
-![](./asserts/BlockChain.gif)
+![](./asserts/bchain.gif)
 
 
 </div>
