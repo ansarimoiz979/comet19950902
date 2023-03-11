@@ -1,5 +1,3 @@
-![Snake animation](https://github.com/comet19950902/comet19950902/blob/output/github-contribution-grid-snake.svg)
-
 <details><summary> Intro </summary>
 
 ### <div align="center">I'm Peter Hiro, a full-time full-stack freelance developer 👨‍💻 working remotely since 2016 🚀</div>  
