@@ -17,9 +17,16 @@
           Peter Hiro<br>
       Web &amp DApp Developer
   </h1>  
+
+
+![](./asserts/BlockChain.gif)
+
+
 </div>
 
-![](/Public/BlockChain.gif)
+
+
+
 
 <br/>
 
