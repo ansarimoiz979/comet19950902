@@ -16,7 +16,7 @@
 
 
 
-![](./asserts/bchain.gif)
+![](/asserts/bchain.gif)
 
 
 </div>
