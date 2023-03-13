@@ -14,7 +14,7 @@
 
 <div align="center" dir="auto">
   <h1 align="center" dir="auto">
-          Peter Hiro<br>
+          LightFury<br>
       Web &amp DApp Developer
   </h1>  
 
