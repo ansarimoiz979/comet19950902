@@ -29,15 +29,6 @@
 
 <br/>
 
-/*s### 🤝 Connect with me:
-
-<a href="https://discordapp.com/users/862393400976343041"><img align="left" src="https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/discord.svg" alt="Alex | Discord" width="24px"/></a>
-<a href="https://t.me/SeniorDevTSD/"><img align="left" src="https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/telegram.svg" alt="Alex | Telegram" width="24px"/></a>
-<a href="mailto:nightfurry090@gmail.com"><img align="left" src="https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/email.svg" alt="Alex | Email" width="24px"/></a>
-<a href="https://join.skype.com/invite/mMQxhBacldqS"><img align="left" src="https://raw.githubusercontent.com/black-wyvern-dev/black-wyvern-dev/main/images/skype.svg" alt="Alex | Skype" width="24px"/></a>
-</br>
- - 💬 If you have any question/feedback or any freelancer work, please do not hesitate to reach out to me!*/
-
 <br/>
 
 <br/>
