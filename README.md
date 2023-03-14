@@ -18,6 +18,13 @@
       Web &amp DApp Developer
   </h1>  
 
+  <h4 aligh="center" dir="auto">
+    My Discussions:
+  </h4>
+  
+  <a src="https://github.com/community/community/discussions/49538">✨github Bot ✨</a>
+  <a src="https://github.com/community/community/discussions/49838">✨N directional TicTacGame✨</a>
+  
 
 ![](./asserts/lightfury.gif)
 
