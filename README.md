@@ -22,11 +22,9 @@
     My Discussions:
   </h4>
   
-  <h5 align="right" dir="right">
-    <a src="https://github.com/community/community/discussions/49538">✨github Bot ✨</a><br/>
-    <a src="https://github.com/community/community/discussions/49838">✨N directional TicTacGame✨</a><br/>
-  </h5>
-  
+  <a align="right" dir="right" src="https://github.com/community/community/discussions/49538">✨github Bot ✨</a><br/>
+  <a align="right" dir="right" src="https://github.com/community/community/discussions/49838">✨N directional TicTacGame✨</a><br/>
+ 
 
 ![](./asserts/lightfury.gif)
 
