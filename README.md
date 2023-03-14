@@ -18,7 +18,7 @@
       Web &amp DApp Developer
   </h1>  
 
-  <h4 aligh="center" dir="auto">
+  <h4 aligh="right" dir="right">
     My Discussions:
   </h4>
   
