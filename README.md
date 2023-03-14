@@ -16,11 +16,7 @@
   <h1 align="center" dir="auto">
           LightFury<br>
       Web &amp DApp Developer
-  </h1>  
-
-  <h4 aligh="right" dir="right">
-    My Discussions:
-  </h4>
+  </h1>
   
   <a align="right" dir="right" href="https://github.com/community/community/discussions/49538">✨github Bot ✨</a><br/>
   <a align="right" dir="right" href="https://github.com/community/community/discussions/49838">✨N directional TicTacGame✨</a><br/>
