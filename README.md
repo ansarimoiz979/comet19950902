@@ -2,7 +2,7 @@
 
 ### <div align="center">I'm a full-time full-stack freelance developer 👨‍💻 working remotely since 2016 🚀</div>  
 
-  - 😎 Interested in contributing expertise in web, unity and blockchain development
+  - 😎 Interested in contributing expertise in web developement, Mean and Mern stack, front end and backend development
   - 👯 I hope someday collaborate with on Innovative Projects
   - 👨‍💻 Enjoy contributing to Open Source Projects and eager to learn new technologies.
   - 📚 Love reading books on personal development & financial literacy.
